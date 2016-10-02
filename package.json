@@ -1,0 +1,39 @@
+{
+  "name": "equilibrium-alga",
+  "version": "1.0.0",
+  "description": "solution of equilibrium problem",
+  "main": "equilibrium.js",
+  "scripts": {
+    "start": "node equilibrium.js",
+    "start-es6": "node-es6 equilibrium-es6.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4lg4/equilibrium.git"
+  },
+  "keywords": [
+    "equilibrium",
+    "Find",
+    "an",
+    "index",
+    "in",
+    "an",
+    "array",
+    "such",
+    "that",
+    "its",
+    "prefix",
+    "sum",
+    "equals",
+    "its",
+    "suffix",
+    "sum"
+  ],
+  "author": "Alga",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/4lg4/equilibrium/issues"
+  },
+  "homepage": "https://github.com/4lg4/equilibrium#readme"
+}
